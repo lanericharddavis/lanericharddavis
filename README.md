@@ -11,14 +11,13 @@ I'm here to disrupt the world of coding as my new creative outlet.  I have conqu
 
 ### Would you like to contact me?
 - 📫 lanericharddavis@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/lane-davis
+- 💼 [LinkedIn](https://www.linkedin.com/in/lane-davis)
 
 
 ### About Me
 - 🎵 I taught myself how to play the piano, ukulele and trumpet.
 - 🎥 I have a degree in media production and have produced a musical.
 - 🐳 I was almost eaten by a killer whale (not really, but it was close)
-- Here are some [opportunities](https://github.com/lanericharddavis/lanericharddavis/files/6314955/Opportunities.xlsx) I am looking into along with the [wordcloud](https://user-images.githubusercontent.com/79102642/114808691-fe619d80-9d65-11eb-8f96-075280f19c6e.jpg)
 
 
 "It's never too late or, in my case, too early to be whoever you want to be. There's no time limit, stop whenever you want. You can change or stay the same, there are no rules to this thing. We can make the best or the worst of it. I hope you make the best of it. And I hope you see things that startle you. I hope you feel things you never felt before. I hope you meet people with a different point of view. I hope you live a life you're proud of. If you find that you're not, I hope you have the strength to start all over again."
